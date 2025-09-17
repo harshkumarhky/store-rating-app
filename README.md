@@ -1,4 +1,3 @@
-**Overview
 Purpose: A platform where users can rate stores, owners can track ratings, and admins manage everything.
 
 Roles:
